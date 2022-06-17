@@ -23,5 +23,3 @@
     Display the elements in vector_2d again using the at() method
 
     Display the elements in vector1
-
-    What did you expect? Did you get what you expected? What do you think happended?
