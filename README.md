@@ -1,5 +1,4 @@
 # Arrays_and_Vectors
-S-7
     Write a C++ program as follows:
 
     Declare 2 empty vectors of integers named
